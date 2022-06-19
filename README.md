@@ -8,7 +8,7 @@
 
 - React Js: For frontend
 - Solidity: For building smart contract
-- Firestore: For storing data
+- Firestore: For storing data 
 - Hedera: For deploying smart contract
 - Tailwind: For styling and animations
 
