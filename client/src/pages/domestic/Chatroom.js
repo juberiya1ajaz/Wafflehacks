@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'
-import { firestore, auth } from '../services/firebase'
-import SendMessage from './SendMessageDoctor'
+import { firestore, auth } from '../../services/firebase'
+import SendMessage from './SendMessage'
 
 export default function Chatroom() {
 
@@ -8,7 +8,7 @@ export default function Chatroom() {
   const [messages, setMessages] = useState([])
 
   useEffect(() => {
-    firestore.collection('doctorMessages').orderBy('createdAt').limit(50).onSnapshot(snapshot => {
+    firestore.collection('domesticAbuseMessages').orderBy('createdAt').limit(50).onSnapshot(snapshot => {
       setMessages(snapshot.docs.map(doc => doc.data()))
     })
   }, [])
