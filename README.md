@@ -52,4 +52,3 @@ We are using **Hedera’s testnet** to **deploy smart contracts** for our app. H
 - We aim to develop this platform and collaborate with doctors and hospitals to make it a genuine free product that benefits everyone and introduces new features and other enhancements.
 - Building a mobile app
 - Deploying the web app.
-- Adding more features to the app.
