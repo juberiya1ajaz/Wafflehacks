@@ -1,8 +1,17 @@
-# APP NAME
+# Soldiers' Shelter
+Virtual Home for all the soldiers that have gone through rape and abuse
 
 ## 💡 Inspiration
+When do you think of a domestic violence survivor, who comes to mind? For most people, it’s a female. And rightfully so since three-quarters of domestic violence victims are women. Data from the National Crime Victimization Study between 2003 and 2012 show that men account for about 24 percent of domestic violence survivors. Hundreds of thousands of men experience domestic violence each year, too.
+However, there is Higher victimization for males than females. In rape cases, the victimization of women is at its peak. Many males never come forward even after being domestically abused for a long duration because of fear of getting victimized.
+These people are not just survivors, they are soldiers who keep going and are still surviving even though they have seen the worst in their life. They are living despite it all. Overcoming abuse does not come easily it takes a helping hand and positive steps every day.
+To help them, we have developed **Soldiers' shelter**  to help them to come forward so that, every voice be heard despite their gender. On Soldiers' shelter, they can talk anonymously with fellow soldiers and can give a helping hand to each other without being judged.
 
 ## 💻 What it does
+-A portal for physical abuse victims
+- Different chatrooms for males, females, and others 
+- Doctor help portal to get help on mental health.
+- Donation page where users and donors can donate to help the soldiers' so that they can start afresh.
 
 ## ⚙️ How we built it
 
@@ -12,7 +21,7 @@
 - Hedera: For deploying smart contract
 - Tailwind: For styling and animations
 
-## 🏳‍🌈 Best Diversity & Inclusion Hack
+##  Best Diversity & Inclusion Hack
 
 ## 🔐 Best Blockchain Project Using Hedera
 
@@ -31,6 +40,7 @@ We are using **Hedera’s testnet** to **deploy smart contracts** for our app. H
 
 - Successfully deployed smart contract on Hedera.
 - Implemented a smart contract that allows users to make transactions on the network.
+- We are pleased that we managed our time and  to complete our task swiftly and on time.
 
 ## 📖 What we learned
 
@@ -38,7 +48,8 @@ We are using **Hedera’s testnet** to **deploy smart contracts** for our app. H
 - Using Hedera to deploy smart contract.
 - Using Firestore to store data.
 
-## 🚀 What's next for APP NAME
-
+## 🚀 What's next for Soldiers' Shelter
+- We aim to develop this platform and collaborate with doctors and hospitals to make it a genuine free product that benefits everyone and introduces new features and other enhancements.
+- Building a mobile app
 - Deploying the web app.
 - Adding more features to the app.
