@@ -49,6 +49,6 @@ We are using **Hedera’s testnet** to **deploy smart contracts** for our app. H
 
 ## 🚀 What's next for Soldiers' Shelter
 
-- We aim to develop this platform and collaborate with doctors and hospitals to make it a genuine free product that benefits everyone and introduces new features and other enhancements.
+- We aim to develop this platform and collaborate with doctors and hospitals to make it a genuine free product that benefits everyone and introduces new features and other enhancements.a
 - Building a mobile app
 - Deploying the web app.

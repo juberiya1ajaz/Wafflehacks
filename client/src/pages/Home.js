@@ -11,7 +11,7 @@ export default function Home() {
       <div className='md:grid md:grid-cols-2 items-center pt-10'>
         <div className=''>
           <h1 className='text-3xl md:text-6xl'>Who we are</h1>
-          <p className='text-xl py-4 tracking-wider font-justify'>Overcoming abuse does not come easily it takes a helping hand and positive steps every day. To help them, we have developed Soldiers' shelter to help them to come forward so that, every voice be heard despite their gender. On Soldiers' shelter, they can talk anonymously with fellow soldiers and can give a helping hand to each other without being judged.</p>
+          <p className='text-xl py-4 tracking-wider text-justify'>Overcoming abuse does not come easily it takes a helping hand and positive steps every day. To help them, we have developed Soldiers' shelter to help them to come forward so that, every voice be heard despite their gender. On Soldiers' shelter, they can talk anonymously with fellow soldiers and can give a helping hand to each other without being judged.</p>
 
           <Link to="/community">
             <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Community</button>

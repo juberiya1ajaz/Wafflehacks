@@ -4,14 +4,12 @@ import { TransactionContext } from '../context/TransactionContext'
 
 export default function Donate() {
 
-  const [showNavbar, setShowNavbar] = useState(false);
-
   return (
-    <div className='text-white'>
+    <div className=''>
 
       <div className="grid place-items-center py-5">
-        <h1 className="text-5xl font-bold">Donate</h1>
-        <div className='bg-blue-500 h-1 w-56 my-2 rounded-lg'></div>
+        <h1 className="text-5xl font-bold text-white">Donate</h1>
+        <div className='bg-blue-500 h-1 w-44 my-2 rounded-lg'></div>
       </div>
 
       <div>
