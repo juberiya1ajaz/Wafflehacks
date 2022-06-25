@@ -36,19 +36,16 @@ We are using **Hedera’s testnet** to **deploy smart contracts** for our app. H
 - Deploying smart contract on Hedera.
 
 ## 🏅 Accomplishments that we're proud of
-
-- Successfully deployed smart contract on Hedera.
-- Implemented a smart contract that allows users to make transactions on the network.
-- We are pleased that we managed our time and to complete our task swiftly and on time.
+- We are pleased that we managed our time and completed our task swiftly and on time.
+- Learning bare bones of MERN in just 24 hours.
 
 ## 📖 What we learned
 
+- Implementation of DeSo.
 - Collaboration with other developers.
-- Using Hedera to deploy smart contract.
-- Using Firestore to store data.
+- How MERN stack works and how we can use it to make efficient websites.
 
-## 🚀 What's next for Soldiers' Shelter
-
-- We aim to develop this platform and collaborate with doctors and hospitals to make it a genuine free product that benefits everyone and introduces new features and other enhancements.a
-- Building a mobile app
+## 🚀 What's next for ShareNcare
+- We aim to develop this platform and collaborate with Universities to make it a genuine free product that benefits everyone and introduces new features and other enhancements.
 - Deploying the web app.
+- Building a mobile app
